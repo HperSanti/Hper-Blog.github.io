@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+  font-family: 'Arial Black';
+}
+
+.perfil{
+  width: 150px;
+  border: solid 4px blue;
+  border-radius: 75px;
+}
+ 
+.icon{
+  width: 15px;
+}
+
+a{
+  background-color: white;
+  padding: 3px 120px;
+  border-radius: 10px;
+}
